@@ -1,0 +1,13 @@
+---
+name: contact
+code: contact
+typeSelect: standard
+installOrder: 3001
+description: |
+    contact management
+image: app-supplychain.png
+modules: 
+    axelor-contact
+dependsOn: 
+    - base
+sequence: 38
